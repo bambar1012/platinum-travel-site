@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/80195759/platinum-travel-site#readme",
   "dependencies": {
+    "loadash": "^1.0.0",
     "lodash": "^4.17.21",
     "normalize.css": "^8.0.1"
   }
